@@ -135,10 +135,12 @@
       0% {
         opacity: 0;
         transform: translate(10px, 197px);
+            transform: translate(10px, 197px);
       }
       100% {
         opacity: 1;
         transform: translate(10px, 192px);
+            transform: translate(10px, 192px);
       }
     }
 
@@ -300,7 +302,7 @@
   </g>
 
   <!-- typing 3 -->
-  <!--<g transform="translate(10, 120)" class="typing-3">
+  <g transform="translate(10, 120)" class="typing-3">
   <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
   <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
   <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
@@ -317,13 +319,14 @@
   </g> -->
 
   <!-- Work ... -->
-  <!--<g transform="translate(10, 96)" class="msg-3">
-    <rect width="375" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Passionate about AI-driven transformation</text> 
-  </g>-->
+  <g transform="translate(10, 96)" class="msg-3">
+    <rect width="420" height="42" rx="18.0355" class="bubble" />
+    <text x="15" y="27">Always eager to adopt and implement emerging tech</text> 
+    <text x="15" y="50">Loving to play a tennis<tspan class="emoji">🎾</tspan></text> 
+  </g>
 
   <!-- typing 4 -->
-  <g transform="translate(10, 120)" class="typing-3">
+  <g transform="translate(10, 120)" class="typing-4">
     <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
     <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
     <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
@@ -341,13 +344,13 @@
   </g>
 
   <!-- Twitter -->
-  <g transform="translate(10, 120)" class="msg-3">
+  <g transform="translate(10, 120)" class="msg-4">
     <rect width="275" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">Find out more on <a xlink:href="https://kangyeolk.github.io/">my website</a></text>
   </g>
 
   <!-- typing 5 -->
-  <g transform="translate(10, 168)" class="typing-4">
+  <g transform="translate(10, 168)" class="typing-5">
   <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
   <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
   <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
@@ -365,7 +368,7 @@
   </g>
 
   <!-- Thanks -->
-  <g transform="translate(10, 168)" class="msg-4">
+  <g transform="translate(10, 168)" class="msg-5">
     <rect width="200" height="42.1302" rx="18.0355" class="bubble" />    
     <text x="15" y="27">Have a great day <tspan class="emoji">👋</tspan></text>
   </g>
