@@ -295,8 +295,7 @@
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="420" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Co-founder, AI Lead and ML Engineer at Letsur</text>
-    <text x="15" y="27">Passionate about driving AI integration across the company</text>
+    <text x="15" y="27">Co-founder, AI Lead and ML Engineer at Letsur</text>    
   </g>
 
   <!-- typing 3 -->
@@ -320,7 +319,7 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="425" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Also interest in AI research of generative model</text>
+    <text x="15" y="27">Passionate about driving AI integration across the company</text>
   </g>
 
   <!-- typing 4 -->
@@ -344,7 +343,7 @@
   <!-- Twitter -->
   <g transform="translate(10, 192)" class="msg-4">
     <rect width="400" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">community lead for official TensorFlow Korea</text>
+    <text x="15" y="27">Found more me on <a xlink:href="https://kangyeolk.github.io/">https://kangyeolk.github.io/</a></text>
   </g>
 
   <!-- typing 5 -->
@@ -367,8 +366,7 @@
 
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
-    <rect width="325" height="42.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">more information can be found at <a xlink:href="https://kangyeolk.github.io/">https://kangyeolk.github.io/</a></text>
+    <rect width="325" height="42.1302" rx="18.0355" class="bubble" />    
     <text x="15" y="50">Have a great day <tspan class="emoji">👋</tspan></text>
   </g>
 
