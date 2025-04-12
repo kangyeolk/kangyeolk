@@ -320,7 +320,7 @@
 
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="420" height="42" rx="18.0355" class="bubble" />
+    <rect width="420" height="69.7276" rx="18.0355" class="bubble" />
     <text x="15" y="27">Always eager to adopt and implement emerging tech</text> 
     <text x="15" y="50">Loving to play a tennis<tspan class="emoji">🎾</tspan></text> 
   </g>
