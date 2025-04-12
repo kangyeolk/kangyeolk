@@ -299,7 +299,7 @@
   </g>
 
   <!-- typing 3 -->
-  <g transform="translate(10, 96)" class="typing-3">
+  <g transform="translate(10, 84)" class="typing-3">
   <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
   <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
   <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
@@ -317,7 +317,7 @@
   </g>
 
   <!-- Work ... -->
-  <g transform="translate(10, 96)" class="msg-3">
+  <g transform="translate(10, 84)" class="msg-3">
     <rect width="375" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">Passionate about AI-driven transformation</text>    
   </g>
